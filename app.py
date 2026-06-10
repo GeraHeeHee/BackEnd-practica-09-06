@@ -1,3 +1,6 @@
+"Gerardo Ramirez Martin del campo"
+"06IDPRMA"
+"2403230423"
 from p5 import *
 from classes.classes import *
 from models.models import *
